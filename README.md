@@ -47,6 +47,3 @@ The site is hosted with GitHub Pages from the `main` branch.
 - HTML, CSS, and vanilla JavaScript
 - [DummyJSON](https://dummyjson.com) as the data source
 
-## License
-
-[Add a license, e.g. MIT.]
